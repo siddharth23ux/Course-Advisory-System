@@ -1,0 +1,9 @@
+career(computer_programmer).
+career(hardware_engineer).
+career(software_developer).
+career(web_developer).
+career(database_administrator).
+career(health_information_technician).
+career(data_scientist).
+career(entrepreneur).
+career(interactive_system_designer).
